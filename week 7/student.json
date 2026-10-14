@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "course": "Node.js",
+    "semester": "Fall 2026"
+  },
+  {
+    "id": 2,
+    "name": "Sara Miller",
+    "course": "React",
+    "semester": "Spring 2026"
+  },
+  {
+    "id": 3,
+    "name": "Devin Reed",
+    "course": "Node.js",
+    "semester": "Fall 2026"
+  }
+]
